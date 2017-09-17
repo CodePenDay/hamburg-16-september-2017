@@ -67,12 +67,14 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 # Resources
 
-* Slides: https://slides.com/timpietrusky/codependay-hamburg-16-september-2017/edit
+* Slides: https://slides.com/timpietrusky/codependay-hamburg-16-september-2017/
 * https://twitter.com/CodePenDay
 * Full video (taken from the live stream): https://youtu.be/rd1J27SLrPU
 
 
 ## Intro
+
+Tim is giving an introduction on what CodePen is and explains how CodePen changed his life.
 
 * Video: https://youtu.be/rd1J27SLrPU?t=2m11s
 * https://codepen.io
@@ -116,23 +118,23 @@ We didn't expected 10 super unique and awesome talks. You should MOST definitely
 
 ### Stefanie Stoppel - Experimental Neurofeedback System
 * Video: https://youtu.be/rd1J27SLrPU?t=3h3m22s
+* Tweet: https://twitter.com/CodePenDay/status/909083390418309122
 * https://github.com/StefanieStoppel/brain2boid
-* https://twitter.com/CodePenDay/status/909083390418309122
 * https://twitter.com/Qbrid_
 
 
 
 ### Clemens Sietas - What is wrong with my Git?
 * Video: https://youtu.be/rd1J27SLrPU?t=3h10m23s
+* Tweet: https://twitter.com/CodePenDay/status/909084569009315840
 * https://twitter.com/Siecle
-* https://twitter.com/CodePenDay/status/909084569009315840
 
 
 
 ### Silke Voigts - Presenting Text
 * Video: https://youtu.be/rd1J27SLrPU?t=3h18m34s
+* Tweet: https://twitter.com/CodePenDay/status/909086926485037056
 * https://twitter.com/silkine
-* https://twitter.com/CodePenDay/status/909086926485037056
 * http://www.silkevoigts.de/
 
 
@@ -208,8 +210,7 @@ We didn't expected 10 super unique and awesome talks. You should MOST definitely
 
 
 ## Outro
-
-* Video:
+* Video: https://youtu.be/rd1J27SLrPU?t=6h20m26s
 
 ### Family Photo
 * Tweet: https://twitter.com/CodePenDay/status/909140304623734784
