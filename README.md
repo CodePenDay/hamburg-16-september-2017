@@ -52,3 +52,15 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * Turn everything from the schedule into modules
 * Use these modules to create a schedule & page automatically with times that change if there is something happening
 * Connect to the Meetup-API and make changes only in our generated schedule
+
+
+# Resources
+
+## Open Stage
+
+### Stefanie Stoppel - Experimental Neurofeedback System
+* https://github.com/StefanieStoppel/brain2boid
+
+### Felix Gnass - Use high level APIs: paper.js + tracking.js
+* http://paperjs.org/examples/chain/
+* https://codepen.io/fgnass/pen/gGaPQz
