@@ -56,6 +56,13 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 # Resources
 
+## Talk Session #1
+
+### Haroen Viaene
+
+* Video: https://www.youtube.com/watch?v=rd1J27SLrPU&feature=youtu.be&t=37m52s
+* Slides: https://haroen.me/presentations/en/fast-clock/
+
 ## Open Stage
 
 ### Stefanie Stoppel - Experimental Neurofeedback System
