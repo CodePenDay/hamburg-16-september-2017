@@ -1,5 +1,9 @@
 # CodePenDay @ Hamburg, Germany - 16th September 2017
 
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/CodePenDay/assets/master/logo/codependayhh800.png">
+</p>
+
 This is the summary with all resources, tweets and videos for the CodePenDay in Hamburg:
 
 * Slides: https://slides.com/timpietrusky/codependay-hamburg-16-september-2017/
@@ -11,6 +15,13 @@ This is the summary with all resources, tweets and videos for the CodePenDay in 
 The resoures are in cronolocial order according to the schedule. 
 
 Please open an issue / create a pull request if something is missing!
+
+# Feedback
+
+* You can open an issue on this repository
+* Or write a mail to codependay@gmail.com
+* Or use the Google form that we will send out in a few days
+* Or open a pull request for https://github.com/CodePenDay/hamburg-16-september-2017/blob/master/RECAP.md
 
 ---
 
