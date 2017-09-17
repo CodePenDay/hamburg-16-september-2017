@@ -122,7 +122,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * https://codepen.io/fgnass/pen/gGaPQz
 
 
-### Mario Nebl - Record your terminal in CSS / SVGT
+### Mario Nebl - Record your terminal in CSS / SVG
 * https://twitter.com/CodePenDay/status/909094106185584643
 * https://twitter.com/marionebl
 
