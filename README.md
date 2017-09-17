@@ -44,6 +44,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * Preparing the food for 100 people was too much for the amount of orgas + "forced volunteers" and we have to think of something else or plan it better
 * Time issues after the dinner: Tim thought that the dinner was too short, so he moved the final talks to 8pm. This was too late
 * As the MC I have to watch every talk without any interruption, so tweeting / photos of the current talk should be handled by someone else
+* Have one person dedicated for registration
 
 
 ## 🤓 Ideas for next time
@@ -53,9 +54,25 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * Use these modules to create a schedule & page automatically with times that change if there is something happening
 * Connect to the Meetup-API and make changes only in our generated schedule
 * Open stage: instead of calling this module "lightning talks" or "show & tell", we should call it open stage, because that is what it was. AND we want ANY content, not even related to dev
+* Having one person doing all social media
+* Ask for volunteers
+* Put a CodePenDay sign on the speaker desk
+* Point a camera on the speaker itself to record it for later edit
 
 
 # Resources
+
+* Slides: https://slides.com/timpietrusky/codependay-hamburg-16-september-2017/edit
+* https://twitter.com/CodePenDay
+
+
+## Intro
+
+### Tim Pietrusky
+
+* https://twitter.com/TimPietrusky
+* https://codepen.io
+* Video: 
 
 ## Talks: #1
 
@@ -63,7 +80,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 * https://github.com/lislis
 
-### Haroen Viaene
+### Haroen Viaene - A clock so fast it got banned from GitHub
 
 * https://twitter.com/haroenv
 * Video: https://www.youtube.com/watch?v=rd1J27SLrPU&feature=youtu.be&t=37m52s
