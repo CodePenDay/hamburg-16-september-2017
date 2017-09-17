@@ -73,13 +73,14 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 * https://twitter.com/TimPietrusky
 * https://codepen.io
-* Video: 
+* Video: https://youtu.be/rd1J27SLrPU?t=2m11s
 
 ## Talks: #1
 
 ### Lisa Passing - Making games
 
 * https://github.com/lislis
+* Video: https://youtu.be/rd1J27SLrPU?t=15m37s
 
 ### Haroen Viaene - A clock so fast it got banned from GitHub
 
@@ -89,7 +90,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * https://bullg.it
 
 ### Diana & Gregor - We are in this together
-
+* Video: https://youtu.be/rd1J27SLrPU?t=47m17s
 
 
 ## Workshop
@@ -102,25 +103,32 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 ## Open Stage
 
+### Intro
+* Video: https://youtu.be/rd1J27SLrPU?t=3h2m49s
+
 ### Stefanie Stoppel - Experimental Neurofeedback System
 * https://github.com/StefanieStoppel/brain2boid
 * https://twitter.com/CodePenDay/status/909083390418309122
 * https://twitter.com/Qbrid_
+* Video: https://youtu.be/rd1J27SLrPU?t=3h3m22s
 
 
 ### Clemens Sietas - What is wrong with my Git? 
 * https://twitter.com/Siecle
 * https://twitter.com/CodePenDay/status/909084569009315840
+* Video: https://youtu.be/rd1J27SLrPU?t=3h10m23s
 
 
-### Silke Voigts - 
+### Silke Voigts - Presenting Text
 * https://twitter.com/silkine
 * https://twitter.com/CodePenDay/status/909086926485037056
 * http://www.silkevoigts.de/
+* Video: https://youtu.be/rd1J27SLrPU?t=3h18m34s
 
 
 ### Klaus - Video on audio reactive Canvas for parties
 * https://twitter.com/CodePenDay/status/909087961672769538
+* Video: https://youtu.be/rd1J27SLrPU?t=3h24m37s
 
 
 ### Philipp - Bring the Marquee tag back! 
@@ -128,17 +136,20 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * https://codepen.io/TheAmazingPT/full/VMvvbo/
 * https://codepen.io/TheAmazingPT/pen/yzYePr
 * https://twitter.com/CodePenDay/status/909089238309904384
+* Video: https://youtu.be/rd1J27SLrPU?t=3h31m8s
 
 
 ### Nils Schönwald - I love to recreate GIFs and Stargates
 * https://twitter.com/schoenwaldnils
 * https://twitter.com/CodePenDay/status/909090025563983872
+* Video: https://youtu.be/rd1J27SLrPU?t=3h34m9s
 
 
 ### Felix Gnass - Use high level APIs: paper.js + tracking.js
 * https://twitter.com/CodePenDay/status/909092631170502656
 * http://paperjs.org/examples/chain/
 * https://codepen.io/fgnass/pen/gGaPQz
+* Video: 
 
 
 ### Mario Nebl - Record your terminal in CSS / SVG
