@@ -85,12 +85,22 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 ### Stefanie Stoppel - Experimental Neurofeedback System
 * https://github.com/StefanieStoppel/brain2boid
+* https://twitter.com/CodePenDay/status/909083390418309122
+* https://twitter.com/Qbrid_
+
+
+### Clemens Sietas - What is wrong with my Git? 
+* https://twitter.com/Siecle
+* https://twitter.com/CodePenDay/status/909084569009315840
+
 
 ### Felix Gnass - Use high level APIs: paper.js + tracking.js
 * http://paperjs.org/examples/chain/
 * https://codepen.io/fgnass/pen/gGaPQz
 
+
 ### Nils Schönwald - 
+* 
 
 ### Philipp - Bring the Marquee tag back! 
 * https://codepen.io/TheAmazingPT/
@@ -115,7 +125,9 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 
 
-## After Party - LiveJS: Martin Schuhfuss
+## After Party
+
+### Martin Schuhfuss - LiveJS
 
 * http://livejs.network
 * https://twitter.com/livejs_network
