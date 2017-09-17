@@ -23,6 +23,11 @@ Please open an issue / create a pull request if something is missing!
 * Or use the Google form that we will send out in a few days
 * Or open a pull request for https://github.com/CodePenDay/hamburg-16-september-2017/blob/master/RECAP.md
 
+# Please note
+
+* The quality of the recorded videos is not perfect AND we only have MONO sound
+* BUT it's super awesome to have these recordings! (We will do it better next time, promise!)
+
 ---
 
 # Resources
