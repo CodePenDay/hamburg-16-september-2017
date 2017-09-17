@@ -58,10 +58,28 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 ## Talks: #1
 
+### Lisa Passing - Making games
+
+* https://github.com/lislis
+
 ### Haroen Viaene
 
+* https://twitter.com/haroenv
 * Video: https://www.youtube.com/watch?v=rd1J27SLrPU&feature=youtu.be&t=37m52s
 * Slides: https://haroen.me/presentations/en/fast-clock/
+* https://bullg.it
+
+### Diana & Gregor - We are in this together
+
+
+
+## Workshop
+
+### Haroen Viaene
+
+* Slides: https://haroen.me/presentations/en/fast-clock/
+
+
 
 ## Open Stage
 
@@ -72,14 +90,34 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * http://paperjs.org/examples/chain/
 * https://codepen.io/fgnass/pen/gGaPQz
 
+### Nils Schönwald - 
+
 ### Philipp - Bring the Marquee tag back! 
 * https://codepen.io/TheAmazingPT/
 * https://codepen.io/TheAmazingPT/full/VMvvbo/
 * https://codepen.io/TheAmazingPT/pen/yzYePr
 
+
+### Felix De Montis - Bullshit Jukebox
+
+
 ## Talks: #2
+
+### Mauricio Palma - Contextualized Interfaces At Warp Speed
+
+* https://twitter.com/PalmaSwell
+
 
 ### Ana Tudor - KISS
 
 * https://twitter.com/anatudor
 * https://codepen.io/collection/DOWNYq/
+
+
+
+## After Party - LiveJS: Martin Schuhfuss
+
+* http://livejs.network
+* https://twitter.com/livejs_network
+* https://twitter.com/usefulthink
+* Slides: http://slides.com/martinschuhfuss/coldfront-2017#/
