@@ -12,7 +12,7 @@ This is the summary with all resources, tweets and videos for the CodePenDay in 
 * Full video (taken from the live stream): https://youtu.be/rd1J27SLrPU
 * Location: [SinnerSchrader, Völckersstrasse 38, Hamburg, Germany](https://goo.gl/maps/FGaUMtkirvL2)
 
-The resoures are in cronolocial order according to the schedule. 
+The resoures are in chronological order based on the [schedule](https://www.meetup.com/de-DE/preview/CodePenDay/events/242031110). 
 
 Please open an issue / create a pull request if something is missing!
 
