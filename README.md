@@ -52,6 +52,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * Turn everything from the schedule into modules
 * Use these modules to create a schedule & page automatically with times that change if there is something happening
 * Connect to the Meetup-API and make changes only in our generated schedule
+* Open stage: instead of calling this module "lightning talks" or "show & tell", we should call it open stage, because that is what it was. AND we want ANY content, not even related to dev
 
 
 # Resources
