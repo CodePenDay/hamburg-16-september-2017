@@ -71,3 +71,8 @@ Forced in terms of: We did not think about having volunteers in the first place 
 ### Felix Gnass - Use high level APIs: paper.js + tracking.js
 * http://paperjs.org/examples/chain/
 * https://codepen.io/fgnass/pen/gGaPQz
+
+### Philipp - Bring the Marquee tag back! 
+* https://codepen.io/TheAmazingPT/
+* https://codepen.io/TheAmazingPT/full/VMvvbo/
+* https://codepen.io/TheAmazingPT/pen/yzYePr
