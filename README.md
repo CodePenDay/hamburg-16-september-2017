@@ -79,6 +79,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 ## Talks: #2
 
-### Ana Tudor
+### Ana Tudor - KISS
 
+* https://twitter.com/anatudor
 * https://codepen.io/collection/DOWNYq/
