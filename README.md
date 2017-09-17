@@ -43,7 +43,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * Grab the signal of the projector and record the screen of the presenter
 * Preparing the food for 100 people was too much for the amount of orgas + "forced volunteers" and we have to think of something else or plan it better
 * Time issues after the dinner: Tim thought that the dinner was too short, so he moved the final talks to 8pm. This was too late
-
+* As the MC I have to watch every talk without any interruption, so tweeting / photos of the current talk should be handled by someone else
 
 
 ## 🤓 Ideas for next time
@@ -94,21 +94,48 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * https://twitter.com/CodePenDay/status/909084569009315840
 
 
-### Felix Gnass - Use high level APIs: paper.js + tracking.js
-* http://paperjs.org/examples/chain/
-* https://codepen.io/fgnass/pen/gGaPQz
+### Silke Voigts - 
+* https://twitter.com/silkine
+* https://twitter.com/CodePenDay/status/909086926485037056
+* http://www.silkevoigts.de/
 
 
-### Nils Schönwald - 
-* 
+### Klaus - Video on audio reactive Canvas for parties
+* https://twitter.com/CodePenDay/status/909087961672769538
+
 
 ### Philipp - Bring the Marquee tag back! 
 * https://codepen.io/TheAmazingPT/
 * https://codepen.io/TheAmazingPT/full/VMvvbo/
 * https://codepen.io/TheAmazingPT/pen/yzYePr
+* https://twitter.com/CodePenDay/status/909089238309904384
+
+
+### Nils Schönwald - I love to recreate GIFs and Stargates
+* https://twitter.com/schoenwaldnils
+* https://twitter.com/CodePenDay/status/909090025563983872
+
+
+### Felix Gnass - Use high level APIs: paper.js + tracking.js
+* https://twitter.com/CodePenDay/status/909092631170502656
+* http://paperjs.org/examples/chain/
+* https://codepen.io/fgnass/pen/gGaPQz
+
+
+### Mario Nebl - Record your terminal in CSS / SVGT
+* https://twitter.com/CodePenDay/status/909094106185584643
+* https://twitter.com/marionebl
+
+
+### Lutz Rosema - I love to play with WebAudio
+* https://twitter.com/CodePenDay/status/909094824523059200
+* https://twitter.com/terabaud
 
 
 ### Felix De Montis - Bullshit Jukebox
+* https://twitter.com/CodePenDay/status/909096049918300160
+* https://twitter.com/DerVonDenBergen
+
 
 
 ## Talks: #2
