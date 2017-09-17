@@ -3,9 +3,9 @@
 The purpose of this document is to gather information about the meetup:
 
 * Critique more than welcome
-* What was good? 
-* What was bad? 
-* What could be improved? 
+* What was good?
+* What was bad?
+* What could be improved?
 
 # Basics
 
@@ -33,6 +33,10 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * Streaming for the whole event
 * The lightning talks / show & tell was super awesome! Extrem quality and variety
 * Motivating the attendees to give a talk in the "open stage" slot was extremly awesome and we have to do this even more intense
+* The workshos and "chill & pen" was super awesome
+* The food was really good
+* Sings for everything helped to find the way
+* The speakers enjoyed the "speaker package" super much
 
 
 
@@ -65,27 +69,29 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 * Slides: https://slides.com/timpietrusky/codependay-hamburg-16-september-2017/edit
 * https://twitter.com/CodePenDay
+* Full video (taken from the live stream): https://youtu.be/rd1J27SLrPU
 
 
 ## Intro
 
-### Tim Pietrusky
-
-* https://twitter.com/TimPietrusky
-* https://codepen.io
 * Video: https://youtu.be/rd1J27SLrPU?t=2m11s
+* https://codepen.io
+* https://twitter.com/TimPietrusky
+* https://codepen.io/TimPietrusky
 
-## Talks: #1
+
+## Talks: Round #1
 
 ### Lisa Passing - Making games
 
-* https://github.com/lislis
 * Video: https://youtu.be/rd1J27SLrPU?t=15m37s
+* https://github.com/lislis
+
 
 ### Haroen Viaene - A clock so fast it got banned from GitHub
 
+* Video: https://youtu.be/rd1J27SLrPU?t=37m52s
 * https://twitter.com/haroenv
-* Video: https://www.youtube.com/watch?v=rd1J27SLrPU&feature=youtu.be&t=37m52s
 * Slides: https://haroen.me/presentations/en/fast-clock/
 * https://bullg.it
 
@@ -103,82 +109,110 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 ## Open Stage
 
+We didn't expected 10 super unique and awesome talks. You should MOST definitely watch ALL of them ❤️
+
 ### Intro
 * Video: https://youtu.be/rd1J27SLrPU?t=3h2m49s
 
 ### Stefanie Stoppel - Experimental Neurofeedback System
+* Video: https://youtu.be/rd1J27SLrPU?t=3h3m22s
 * https://github.com/StefanieStoppel/brain2boid
 * https://twitter.com/CodePenDay/status/909083390418309122
 * https://twitter.com/Qbrid_
-* Video: https://youtu.be/rd1J27SLrPU?t=3h3m22s
 
 
-### Clemens Sietas - What is wrong with my Git? 
+
+### Clemens Sietas - What is wrong with my Git?
+* Video: https://youtu.be/rd1J27SLrPU?t=3h10m23s
 * https://twitter.com/Siecle
 * https://twitter.com/CodePenDay/status/909084569009315840
-* Video: https://youtu.be/rd1J27SLrPU?t=3h10m23s
+
 
 
 ### Silke Voigts - Presenting Text
+* Video: https://youtu.be/rd1J27SLrPU?t=3h18m34s
 * https://twitter.com/silkine
 * https://twitter.com/CodePenDay/status/909086926485037056
 * http://www.silkevoigts.de/
-* Video: https://youtu.be/rd1J27SLrPU?t=3h18m34s
 
 
 ### Klaus - Video on audio reactive Canvas for parties
-* https://twitter.com/CodePenDay/status/909087961672769538
 * Video: https://youtu.be/rd1J27SLrPU?t=3h24m37s
+* Tweet: https://twitter.com/CodePenDay/status/909087961672769538
 
 
-### Philipp - Bring the Marquee tag back! 
-* https://codepen.io/TheAmazingPT/
-* https://codepen.io/TheAmazingPT/full/VMvvbo/
-* https://codepen.io/TheAmazingPT/pen/yzYePr
-* https://twitter.com/CodePenDay/status/909089238309904384
+
+### Philipp - Bring the Marquee tag back!
 * Video: https://youtu.be/rd1J27SLrPU?t=3h31m8s
+* Tweet: https://twitter.com/CodePenDay/status/909089238309904384
+* https://codepen.io/TheAmazingPT/
+* https://codepen.io/TheAmazingPT/pen/VMvvbo/
+* https://codepen.io/TheAmazingPT/pen/yzYePr
 
 
-### Nils Schönwald - I love to recreate GIFs and Stargates
-* https://twitter.com/schoenwaldnils
-* https://twitter.com/CodePenDay/status/909090025563983872
+
+### Nils Schönwald - I love to recreate GIFs and Stargate
 * Video: https://youtu.be/rd1J27SLrPU?t=3h34m9s
+* Tweet: https://twitter.com/CodePenDay/status/909090025563983872
+* https://twitter.com/schoenwaldnils
+
 
 
 ### Felix Gnass - Use high level APIs: paper.js + tracking.js
-* https://twitter.com/CodePenDay/status/909092631170502656
+* Video: https://youtu.be/rd1J27SLrPU?t=3h42m3s
+* Tweet: https://twitter.com/CodePenDay/status/909092631170502656
 * http://paperjs.org/examples/chain/
 * https://codepen.io/fgnass/pen/gGaPQz
-* Video: 
+
 
 
 ### Mario Nebl - Record your terminal in CSS / SVG
-* https://twitter.com/CodePenDay/status/909094106185584643
+* Video: https://youtu.be/rd1J27SLrPU?t=3h48m33s
+* Tweet: https://twitter.com/CodePenDay/status/909094106185584643
 * https://twitter.com/marionebl
 
 
+
 ### Lutz Rosema - I love to play with WebAudio
-* https://twitter.com/CodePenDay/status/909094824523059200
+* Video: https://youtu.be/rd1J27SLrPU?t=3h52m27s
+* Tweet: https://twitter.com/CodePenDay/status/909094824523059200
 * https://twitter.com/terabaud
 
 
-### Felix De Montis - Bullshit Jukebox
-* https://twitter.com/CodePenDay/status/909096049918300160
+
+### Felix De Montis - Jukebox over the Phone
+* Video: https://youtu.be/rd1J27SLrPU?t=3h57m19s
+* Tweet: https://twitter.com/CodePenDay/status/909096049918300160
 * https://twitter.com/DerVonDenBergen
 
 
 
-## Talks: #2
+
+## Talks: Round #2
 
 ### Mauricio Palma - Contextualized Interfaces At Warp Speed
-
+* Video: https://youtu.be/rd1J27SLrPU?t=5h17m
+* Tweet: https://twitter.com/CodePenDay/status/909116385023979522
 * https://twitter.com/PalmaSwell
 
 
-### Ana Tudor - KISS
 
+### Ana Tudor - KISS
+* Video: https://youtu.be/rd1J27SLrPU?t=5h39m49s
+* Tweet: https://twitter.com/CodePenDay/status/909122827957227520
 * https://twitter.com/anatudor
 * https://codepen.io/collection/DOWNYq/
+
+
+
+
+
+## Outro
+
+* Video:
+
+### Family Photo
+* Tweet: https://twitter.com/CodePenDay/status/909140304623734784
 
 
 
@@ -186,6 +220,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 ### Martin Schuhfuss - LiveJS
 
+* Tweet: https://twitter.com/CodePenDay/status/909144364227678208
 * http://livejs.network
 * https://twitter.com/livejs_network
 * https://twitter.com/usefulthink
