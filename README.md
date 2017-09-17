@@ -45,6 +45,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * Time issues after the dinner: Tim thought that the dinner was too short, so he moved the final talks to 8pm. This was too late
 * As the MC I have to watch every talk without any interruption, so tweeting / photos of the current talk should be handled by someone else
 * Have one person dedicated for registration
+* Test the live streaming setup at least a day before and see the result on YouTube (we only have mono sound)
 
 
 ## 🤓 Ideas for next time
