@@ -56,7 +56,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
 
 # Resources
 
-## Talk Session #1
+## Talks: #1
 
 ### Haroen Viaene
 
@@ -76,3 +76,9 @@ Forced in terms of: We did not think about having volunteers in the first place 
 * https://codepen.io/TheAmazingPT/
 * https://codepen.io/TheAmazingPT/full/VMvvbo/
 * https://codepen.io/TheAmazingPT/pen/yzYePr
+
+## Talks: #2
+
+### Ana Tudor
+
+* https://codepen.io/collection/DOWNYq/
