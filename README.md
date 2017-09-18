@@ -84,7 +84,6 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 ### Stefanie Stoppel - Experimental Neurofeedback System
 * Video: https://youtu.be/rd1J27SLrPU?t=3h3m22s
 * Tweet: https://twitter.com/CodePenDay/status/909083390418309122
-* Twitter: https://twitter.com/Qbrid_
 * CodePen: https://codepen.io/Qbrid/
 * Project: https://github.com/StefanieStoppel/brain2boid
 
