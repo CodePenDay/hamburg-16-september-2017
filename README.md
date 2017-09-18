@@ -110,6 +110,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Tweet: https://twitter.com/CodePenDay/status/909087961672769538 (sorry for the wrong name in the tweet)
 * CodePen: https://codepen.io/MrBambule
 * GitHub: https://github.com/KarstenBuckstegge
+* Twitter: https://twitter.com/Mr_Bambule
 * Apy: https://codepen.io/MrBambule/pen/emWwEX
 * audio-mask: https://github.com/KarstenBuckstegge/audio-mask
 
