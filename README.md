@@ -143,6 +143,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h42m3s
 * Tweet: https://twitter.com/CodePenDay/status/909092631170502656
 * CodePen: https://codepen.io/fgnass
+* Twitter: https://twitter.com/fgnass
 * https://codepen.io/fgnass/pen/gGaPQz
 * http://paperjs.org/examples/chain/
 
