@@ -47,6 +47,7 @@ Tim (our MC) is giving an introduction on what CodePen is and explains how CodeP
 ### Lisa Passing - Making games
 
 * Video: https://youtu.be/rd1J27SLrPU?t=15m37s
+* Slides: https://lislis.de/talks/codependay-hh
 * https://github.com/lislis
 
 
