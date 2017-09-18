@@ -48,7 +48,11 @@ Tim (our MC) is giving an introduction on what CodePen is and explains how CodeP
 
 * Video: https://youtu.be/rd1J27SLrPU?t=15m37s
 * Slides: https://lislis.de/talks/codependay-hh
-* https://github.com/lislis
+* GitHub: https://github.com/lislis
+* One Hand Sound Game: https://github.com/lislis/onehandsoundgame
+* SWAJ: https://github.com/lislis/swaj
+* Unknown Artist: https://github.com/lislis/unknown-artist
+* cat meow: https://github.com/lislis/cat-meow
 
 
 ### Haroen Viaene - A clock so fast it got banned from GitHub
