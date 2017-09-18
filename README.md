@@ -189,6 +189,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 
 ### Mauricio Palma - Contextualized Interfaces At Warp Speed
 * Video: https://youtu.be/rd1J27SLrPU?t=5h17m
+* Slides: http://bit.ly/contextualized-interfaces-presentation
 * Tweet: https://twitter.com/CodePenDay/status/909116385023979522
 * Twitter: https://twitter.com/PalmaSwell
 * CodePen: https://codepen.io/Palmaswell
