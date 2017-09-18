@@ -55,6 +55,7 @@ Forced in terms of: We did not think about having volunteers in the first place 
   * The quality of the stream should be improved
   * Audio was only recorded as mono
 * Prints should be done before the day of the meetup
+* We need to advertise the event better and also tell everyone about the live stream before, so that people can watch it
 
 
 ## 🤓 Ideas for next time
