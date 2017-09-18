@@ -207,17 +207,35 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 ## Outro
 * Video: https://youtu.be/rd1J27SLrPU?t=6h20m26s
 
+### Sponsors
+* Video: https://youtu.be/rd1J27SLrPU?t=6h20m47s
+
+* SinnerSchrader: https://sinnerschrader.com
+* Media Temple: https://mediatemple.net
+* Bullgit: https://bullg.it
+* CodePen: https://codepen.io
+
+### Thanks to
+* Video: https://www.youtube.com/watch?v=rd1J27SLrPU&feature=youtu.be&t=6h21m17s
+
+* Felicitas Kugland: https://twitter.com/kotzendekrabbe
+* Felix De Montis: https://twitter.com/DerVonDenBergen
+* Martin Schuhfuss: https://twitter.com/usefulthink
+* André Ruffert: https://twitter.com/andreruffert
+* Alfred Rinman
+
+### LiveJS
+* Video: https://youtu.be/rd1J27SLrPU?t=6h23m1s
+* Twitter: https://twitter.com/livejs_network
+* http://livejs.network
+
 ### Family Photo
+* Video: https://youtu.be/rd1J27SLrPU?t=6h24m40s
 * Tweet: https://twitter.com/CodePenDay/status/909140304623734784
 
 
 
 ## After Party
-
-### What is LiveJS? 
-* Video: https://youtu.be/rd1J27SLrPU?t=6h23m1s
-* Twitter: https://twitter.com/livejs_network
-* http://livejs.network
 
 ### Martin Schuhfuss - dmxpen: Controlling DMX512 lights with JS & CSS
 
