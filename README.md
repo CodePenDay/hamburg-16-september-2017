@@ -34,12 +34,12 @@ Please open an issue / create a pull request if something is missing!
 
 ## Intro
 
-Tim is giving an introduction on what CodePen is and explains how CodePen changed his life.
+Tim (our MC) is giving an introduction on what CodePen is and explains how CodePen changed his life.
 
 * Video: https://youtu.be/rd1J27SLrPU?t=2m11s
 * https://codepen.io
-* https://twitter.com/TimPietrusky
-* https://codepen.io/TimPietrusky
+* Twitter: https://twitter.com/TimPietrusky
+* CodePen: https://codepen.io/TimPietrusky
 
 
 ## Talks: Round #1
@@ -53,25 +53,27 @@ Tim is giving an introduction on what CodePen is and explains how CodePen change
 ### Haroen Viaene - A clock so fast it got banned from GitHub
 
 * Video: https://youtu.be/rd1J27SLrPU?t=37m52s
-* https://twitter.com/haroenv
-* Slides: https://haroen.me/presentations/en/fast-clock/
-* https://bullg.it
+* Slides: https://haroen.me/presentations/en/fast-clock/bullgit-fast-clock.pdf
+* Twitter: https://twitter.com/haroenv
+* Bullgit: https://bullg.it
 
 ### Diana & Gregor - We are in this together
 * Video: https://youtu.be/rd1J27SLrPU?t=47m17s
+* Twitter (CodePenDay): https://twitter.com/CodePenDay
+* Twitter (Diana): https://twitter.com/ilithya_net
 
 
 ## Workshop
 
 ### Haroen Viaene
+* Slides: https://haroen.me/presentations/en/fast-clock/how-to-bullgit.pdf
+* Bullgit: https://bullg.it
 
-* Slides: https://haroen.me/presentations/en/fast-clock/
 
 
+## Open Stage (former "lightning talks" / "show & tell")
 
-## Open Stage
-
-We didn't expected 10 super unique and awesome talks. You should MOST definitely watch ALL of them ❤️
+We transformed this part of CodePenDay into "open stage", because it makes more sense to give the attendees the freedom to talk about anything they want. And the result was absolutely AMAZING!
 
 ### Intro
 * Video: https://youtu.be/rd1J27SLrPU?t=3h2m49s
@@ -79,22 +81,22 @@ We didn't expected 10 super unique and awesome talks. You should MOST definitely
 ### Stefanie Stoppel - Experimental Neurofeedback System
 * Video: https://youtu.be/rd1J27SLrPU?t=3h3m22s
 * Tweet: https://twitter.com/CodePenDay/status/909083390418309122
-* https://github.com/StefanieStoppel/brain2boid
-* https://twitter.com/Qbrid_
+* Twitter: https://twitter.com/Qbrid_
+* Project: https://github.com/StefanieStoppel/brain2boid
 
 
 
 ### Clemens Sietas - What is wrong with my Git?
 * Video: https://youtu.be/rd1J27SLrPU?t=3h10m23s
 * Tweet: https://twitter.com/CodePenDay/status/909084569009315840
-* https://twitter.com/Siecle
+* Twitter: https://twitter.com/Siecle
 
 
 
 ### Silke Voigts - Presenting Text
 * Video: https://youtu.be/rd1J27SLrPU?t=3h18m34s
 * Tweet: https://twitter.com/CodePenDay/status/909086926485037056
-* https://twitter.com/silkine
+* Twitter: https://twitter.com/silkine
 * http://www.silkevoigts.de/
 
 
@@ -107,7 +109,7 @@ We didn't expected 10 super unique and awesome talks. You should MOST definitely
 ### Philipp - Bring the Marquee tag back!
 * Video: https://youtu.be/rd1J27SLrPU?t=3h31m8s
 * Tweet: https://twitter.com/CodePenDay/status/909089238309904384
-* https://codepen.io/TheAmazingPT/
+* CodePen: https://codepen.io/TheAmazingPT/
 * https://codepen.io/TheAmazingPT/pen/VMvvbo/
 * https://codepen.io/TheAmazingPT/pen/yzYePr
 
@@ -116,36 +118,37 @@ We didn't expected 10 super unique and awesome talks. You should MOST definitely
 ### Nils Schönwald - I love to recreate GIFs and Stargate
 * Video: https://youtu.be/rd1J27SLrPU?t=3h34m9s
 * Tweet: https://twitter.com/CodePenDay/status/909090025563983872
-* https://twitter.com/schoenwaldnils
+* Twitter: https://twitter.com/schoenwaldnils
 
 
 
 ### Felix Gnass - Use high level APIs: paper.js + tracking.js
 * Video: https://youtu.be/rd1J27SLrPU?t=3h42m3s
 * Tweet: https://twitter.com/CodePenDay/status/909092631170502656
-* http://paperjs.org/examples/chain/
+* CodePen: https://codepen.io/fgnass
 * https://codepen.io/fgnass/pen/gGaPQz
+* http://paperjs.org/examples/chain/
 
 
 
 ### Mario Nebl - Record your terminal in CSS / SVG
 * Video: https://youtu.be/rd1J27SLrPU?t=3h48m33s
 * Tweet: https://twitter.com/CodePenDay/status/909094106185584643
-* https://twitter.com/marionebl
+* Twitter: https://twitter.com/marionebl
 
 
 
 ### Lutz Rosema - I love to play with WebAudio
 * Video: https://youtu.be/rd1J27SLrPU?t=3h52m27s
 * Tweet: https://twitter.com/CodePenDay/status/909094824523059200
-* https://twitter.com/terabaud
+* Twitter: https://twitter.com/terabaud
 
 
 
 ### Felix De Montis - Jukebox over the Phone
 * Video: https://youtu.be/rd1J27SLrPU?t=3h57m19s
 * Tweet: https://twitter.com/CodePenDay/status/909096049918300160
-* https://twitter.com/DerVonDenBergen
+* Twitter: https://twitter.com/DerVonDenBergen
 
 
 
@@ -155,17 +158,15 @@ We didn't expected 10 super unique and awesome talks. You should MOST definitely
 ### Mauricio Palma - Contextualized Interfaces At Warp Speed
 * Video: https://youtu.be/rd1J27SLrPU?t=5h17m
 * Tweet: https://twitter.com/CodePenDay/status/909116385023979522
-* https://twitter.com/PalmaSwell
+* Twitter: https://twitter.com/PalmaSwell
 
 
 
 ### Ana Tudor - KISS
 * Video: https://youtu.be/rd1J27SLrPU?t=5h39m49s
+* Slides: https://codepen.io/collection/DOWNYq/
 * Tweet: https://twitter.com/CodePenDay/status/909122827957227520
-* https://twitter.com/anatudor
-* https://codepen.io/collection/DOWNYq/
-
-
+* Twitter: https://twitter.com/anatudor
 
 
 
@@ -179,10 +180,13 @@ We didn't expected 10 super unique and awesome talks. You should MOST definitely
 
 ## After Party
 
+### What is LiveJS? 
+* Video: https://youtu.be/rd1J27SLrPU?t=6h23m1s
+
 ### Martin Schuhfuss - LiveJS
 
+* Slides: http://slides.com/martinschuhfuss/coldfront-2017#/
 * Tweet: https://twitter.com/CodePenDay/status/909144364227678208
 * http://livejs.network
 * https://twitter.com/livejs_network
 * https://twitter.com/usefulthink
-* Slides: http://slides.com/martinschuhfuss/coldfront-2017#/
