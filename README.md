@@ -231,6 +231,9 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=6h24m40s
 * Tweet: https://twitter.com/CodePenDay/status/909140304623734784
 
+### Thank you
+* Video: https://youtu.be/rd1J27SLrPU?t=6h28m18s
+
 
 
 ## After Party
