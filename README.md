@@ -55,12 +55,15 @@ Tim (our MC) is giving an introduction on what CodePen is and explains how CodeP
 * Video: https://youtu.be/rd1J27SLrPU?t=37m52s
 * Slides: https://haroen.me/presentations/en/fast-clock/bullgit-fast-clock.pdf
 * Twitter: https://twitter.com/haroenv
+* CodePen: https://codepen.io/Haroenv
 * Bullgit: https://bullg.it
 
 ### Diana & Gregor - We are in this together
 * Video: https://youtu.be/rd1J27SLrPU?t=47m17s
 * Twitter (CodePenDay): https://twitter.com/CodePenDay
 * Twitter (Diana): https://twitter.com/ilithya_net
+* CodePen (Gregor): https://codepen.io/pixelass
+* CodePen (Diana): https://codepen.io/ilithya
 
 
 ## Workshop
@@ -82,6 +85,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h3m22s
 * Tweet: https://twitter.com/CodePenDay/status/909083390418309122
 * Twitter: https://twitter.com/Qbrid_
+* CodePen: https://codepen.io/Qbrid/
 * Project: https://github.com/StefanieStoppel/brain2boid
 
 
@@ -90,6 +94,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h10m23s
 * Tweet: https://twitter.com/CodePenDay/status/909084569009315840
 * Twitter: https://twitter.com/Siecle
+* CodePen: https://codepen.io/siecle
 
 
 
@@ -97,12 +102,17 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h18m34s
 * Tweet: https://twitter.com/CodePenDay/status/909086926485037056
 * Twitter: https://twitter.com/silkine
+* CodePen: https://codepen.io/silkine
 * http://www.silkevoigts.de/
 
 
-### Klaus - Video on audio reactive Canvas for parties
+### Karsten Buckstegge - Video + audio reactive Canvas = PARTY
 * Video: https://youtu.be/rd1J27SLrPU?t=3h24m37s
-* Tweet: https://twitter.com/CodePenDay/status/909087961672769538
+* Tweet: https://twitter.com/CodePenDay/status/909087961672769538 (sorry for the wrong name in the tweet)
+* CodePen: https://codepen.io/MrBambule
+* GitHub: https://github.com/KarstenBuckstegge
+* Apy: https://codepen.io/MrBambule/pen/emWwEX
+* audio-mask: https://github.com/KarstenBuckstegge/audio-mask
 
 
 
@@ -110,6 +120,8 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h31m8s
 * Tweet: https://twitter.com/CodePenDay/status/909089238309904384
 * CodePen: https://codepen.io/TheAmazingPT/
+* GitHub: https://github.com/TheAmazingPT
+* Twitter: https://twitter.com/TheAmazingPT
 * https://codepen.io/TheAmazingPT/pen/VMvvbo/
 * https://codepen.io/TheAmazingPT/pen/yzYePr
 
@@ -119,6 +131,11 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h34m9s
 * Tweet: https://twitter.com/CodePenDay/status/909090025563983872
 * Twitter: https://twitter.com/schoenwaldnils
+* CodePen: https://codepen.io/schoenwaldnils
+* GitHub: https://github.com/schoenwaldnils
+* Twirling Dots: https://codepen.io/schoenwaldnils/pen/YGLXdA
+* Rotating is the answer: https://codepen.io/schoenwaldnils/pen/ZQrvpx
+* Stargate: https://github.com/schoenwaldnils/csstargate
 
 
 
@@ -135,6 +152,8 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h48m33s
 * Tweet: https://twitter.com/CodePenDay/status/909094106185584643
 * Twitter: https://twitter.com/marionebl
+* CodePen: https://codepen.io/marionebl
+* GitHub: https://github.com/marionebl
 
 
 
@@ -142,13 +161,20 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=3h52m27s
 * Tweet: https://twitter.com/CodePenDay/status/909094824523059200
 * Twitter: https://twitter.com/terabaud
+* Worms: https://codepen.io/terabaud/pen/rGOeGy
+* Music Paint: https://codepen.io/terabaud/pen/jVOYNv
+* Whoop Whoop: https://codepen.io/terabaud/pen/yVLwYz
 
 
 
-### Felix De Montis - Jukebox over the Phone
+
+### Felix De Montis - Jukephone - Jukebox over the Phone
 * Video: https://youtu.be/rd1J27SLrPU?t=3h57m19s
 * Tweet: https://twitter.com/CodePenDay/status/909096049918300160
 * Twitter: https://twitter.com/DerVonDenBergen
+* GitHub: https://github.com/dervondenbergen
+* CodePen: https://codepen.io/dervondenbergen/
+* Jukephone: https://github.com/bullgit/jukephone
 
 
 
@@ -159,6 +185,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Video: https://youtu.be/rd1J27SLrPU?t=5h17m
 * Tweet: https://twitter.com/CodePenDay/status/909116385023979522
 * Twitter: https://twitter.com/PalmaSwell
+* CodePen: https://codepen.io/Palmaswell
 
 
 
@@ -167,6 +194,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 * Slides: https://codepen.io/collection/DOWNYq/
 * Tweet: https://twitter.com/CodePenDay/status/909122827957227520
 * Twitter: https://twitter.com/anatudor
+* CodePen: https://codepen.io/thebabydino/
 
 
 
@@ -182,11 +210,13 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 
 ### What is LiveJS? 
 * Video: https://youtu.be/rd1J27SLrPU?t=6h23m1s
+* Twitter: https://twitter.com/livejs_network
+* http://livejs.network
 
-### Martin Schuhfuss - LiveJS
+### Martin Schuhfuss - dmxpen: Controlling DMX512 lights with JS & CSS
 
 * Slides: http://slides.com/martinschuhfuss/coldfront-2017#/
 * Tweet: https://twitter.com/CodePenDay/status/909144364227678208
-* http://livejs.network
-* https://twitter.com/livejs_network
-* https://twitter.com/usefulthink
+* Twitter: https://twitter.com/usefulthink
+* CodePen: https://codepen.io/usefulthink
+* GitHub: https://github.com/usefulthink
