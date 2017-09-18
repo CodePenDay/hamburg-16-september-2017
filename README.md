@@ -209,7 +209,6 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 
 ### Sponsors
 * Video: https://youtu.be/rd1J27SLrPU?t=6h20m47s
-
 * SinnerSchrader: https://sinnerschrader.com
 * Media Temple: https://mediatemple.net
 * Bullgit: https://bullg.it
@@ -217,7 +216,6 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 
 ### Thanks to
 * Video: https://www.youtube.com/watch?v=rd1J27SLrPU&feature=youtu.be&t=6h21m17s
-
 * Felicitas Kugland: https://twitter.com/kotzendekrabbe
 * Felix De Montis: https://twitter.com/DerVonDenBergen
 * Martin Schuhfuss: https://twitter.com/usefulthink
