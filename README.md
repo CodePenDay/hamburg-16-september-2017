@@ -198,10 +198,11 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 
 ### Ana Tudor - KISS
 * Video: https://youtu.be/rd1J27SLrPU?t=5h39m49s
-* Slides: https://codepen.io/collection/DOWNYq/
+* Slides: https://codepen.io/thebabydino/project/full/ZKwajN/
 * Tweet: https://twitter.com/CodePenDay/status/909122827957227520
 * Twitter: https://twitter.com/anatudor
 * CodePen: https://codepen.io/thebabydino/
+* Collection of demos: https://codepen.io/collection/DOWNYq/
 
 
 
