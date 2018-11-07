@@ -163,7 +163,7 @@ We transformed this part of CodePenDay into "open stage", because it makes more 
 
 
 
-### Lutz Rosema - I love to play with WebAudio
+### Lea Rosema - I love to play with WebAudio
 * Video: https://youtu.be/rd1J27SLrPU?t=3h52m27s
 * Tweet: https://twitter.com/CodePenDay/status/909094824523059200
 * Twitter: https://twitter.com/terabaud
